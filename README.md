@@ -29,7 +29,7 @@ pip install cookiecutter
 Run Cookiecutter with this template:
 
 ```python
-cookiecutter https://github.com/dantium/django-docker-tailwind
+cookiecutter https://github.com/tibeb-dev/django-docker-tailwind.git 
 ```
 
 Enter your project details at the prompts, once the project has been created enter the directory:
