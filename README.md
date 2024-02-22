@@ -38,6 +38,14 @@ Enter your project details at the prompts, once the project has been created ent
 cd project_slug
 ```
 
+Make files excutable:
+```python
+chmod +x /docker/django/start_production
+chmod +x /docker/django/start_dev
+chmod +x /docker/django/entrypoint
+
+```
+
 Run with docker:
 
 ```python
