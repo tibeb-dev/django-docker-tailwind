@@ -1,11 +1,6 @@
 {
     "project_name": "Django Project",
-    "include_docs": {
-        "type": "enum",
-        "prompt": "Include documentation?",
-        "options": ["yes", "no"],
-        "default": "yes"
-    },
+    "include_docs": ["yes", "no"],
     "project_slug": "django_project",
     "project_domain": "bisrat.com",
     "author_name": "Bisrat",
