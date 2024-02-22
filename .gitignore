@@ -18,7 +18,7 @@ coverage.xml
 # Translations
 *.mo
 *.pot
-
+venv
 # Django stuff:
 *.log
 

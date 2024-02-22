@@ -1,9 +1,10 @@
 {
     "project_name": "Django Project",
+    "include_docs": ["yes", "no"],
     "project_slug": "django_project",
-    "project_domain": "danatkinson.com",
-    "author_name": "Dan Atkinson",
-    "author_email": "dan@danatkinson.com",
+    "project_domain": "bisrat.com",
+    "author_name": "Bisrat",
+    "author_email": "Bisrat@gmail.com",
     "timezone": "UTC",
     "use_wagtail": "y",
     "use_sentry": "y",
