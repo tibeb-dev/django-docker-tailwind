@@ -40,3 +40,5 @@ CMD gunicorn deploy.wsgi \
   --timeout $GUNICORN_TIMEOUT
 
 FROM base_build as dev_build
+
+FROM base_build as staging_build
