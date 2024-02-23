@@ -40,9 +40,9 @@ cd project_slug
 
 Make files excutable:
 ```python
-chmod +x /docker/django/start_production
-chmod +x /docker/django/start_dev
-chmod +x /docker/django/entrypoint
+chmod +x docker/django/start_production
+chmod +x docker/django/start_dev
+chmod +x docker/django/entrypoint
 
 ```
 
