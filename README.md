@@ -52,6 +52,16 @@ Run with docker:
 docker-compose up
 ```
 
+Run the staging:
+```
+docker-compose -f docker-compose.staging.yml
+```
+
+Run the production:
+```
+docker-compose -f docker-compose.production.yml
+```
+
 Create a superuser:
 
 ```python
